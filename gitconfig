@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = yian80413@gmail.com
+	name = Yi-An Ko
