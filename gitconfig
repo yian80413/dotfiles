@@ -50,8 +50,8 @@
 [pull]
   rebase = false
 [user]
-	email = yian8041@gmail.com
-	name = Yi An Ko
+	email = yian80413@gmail.com
+	name = Yi-An Ko
 [credential "https://github.com"]
 	helper = 
 	helper = !/usr/bin/gh auth git-credential
